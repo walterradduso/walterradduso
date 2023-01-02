@@ -1,11 +1,14 @@
 ## Hello World 👋 it's Walter here
-I'm a Frontend developer with my ❤️ in [React](https://reactjs.org/). Fan of [Javascript](https://www.javascript.com/) and [Typescript](https://www.typescriptlang.org/) enthusiast.
+I'm a Frontend developer.
 
-## What I'm up to
-- 🔭 I’m currently working @ [MercadoLibre](https://www.mercadolibre.com/).
-- 🌱 I’m currently working with [React](https://reactjs.org/).
+## 👨🏻‍💻 Work
+- 🔭 I’m currently working @ [Mundi](https://mundi.io/).
+- 💼 I worked in **MercadoLibre**.
 
-## How to reach me
+## 💻 Languages
+- 🌱 I used to work with React, Javascript and Typescript.
+
+## 📫 How to reach me
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/walterradduso/" target="_blanck">
@@ -16,7 +19,7 @@ I'm a Frontend developer with my ❤️ in [React](https://reactjs.org/). Fan of
   </a>
 </div>
 
-## Language and Tools
+##
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
@@ -45,4 +48,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-🧑🏻‍💻
 -->
