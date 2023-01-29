@@ -1,21 +1,40 @@
 ## Hello World 👋 it's Walter here
-I'm a Frontend developer.
+I've been programming for many years, I started programming in PHP, HTML, CSS and JS (with JQuery).
 
-## 👨🏻‍💻 Work
-- 🔭 I’m currently working @ [Mundi](https://mundi.io/).
-- 💼 I worked in **MercadoLibre**.
+A few years later I met FrontEnd and it was love at first line. At that time I started with AngularJs and then moved to ReactJs.
 
-## 💻 Languages
+Currently I work with ReactJs and NodeJs with Javascript and Typescript.
+Besides that I'm constantly learning new languages and tools (libraries and frameworks).
+
+Thanks for reading and welcome to my profile.
+
+### 👨🏻‍💻 Work
+- 🔭 I’m currently working as a _Sr Frontend Software Engineer_ @ **[Mundi](https://mundi.io/)**. 
+- 💼 I have worked in **MercadoLibre** as a Technical Leader.
+
+### 💻 Languages
 - 🌱 I used to work with React, Javascript and Typescript.
 
-## 📫 How to reach me
+### 📫 How to reach me
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/walterradduso/" target="_blanck">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="http://linkedin.walterradduso.com" target="_blanck">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://walterradduso.github.io/" target="_blanck">
+  <a href="http://walterradduso.com/" target="_blanck">
     <img src="https://img.shields.io/badge/website-8a0606?style=for-the-badge&logo=About.me&logoColor=FFFFFF" alt="Website Badge"/>
+  </a>
+  <a href="http://twitch.codigodemarras.com/" target="_blanck">
+    <img src="https://img.shields.io/badge/twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=FFFFFF" alt="Website Badge"/>
+  </a>
+  <a href="http://twitter.codigodemarras.com/" target="_blanck">
+    <img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="Website Badge"/>
+  </a>
+  <a href="http://youtube.codigodemarras.com/" target="_blanck">
+    <img src="https://img.shields.io/badge/youtube-c4302b?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="Website Badge"/>
+  </a>
+  <a href="http://discord.codigodemarras.com/" target="_blanck">
+    <img src="https://img.shields.io/badge/discord-36393e?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Website Badge"/>
   </a>
 </div>
 
