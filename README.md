@@ -11,7 +11,7 @@ Thank you for reading and welcome to my profile.
 
 ### 👨🏻‍💻 Work
 
-- 🔭 I’m currently working as a _Sr Frontend Software Engineer_ @ **[Mundi](https://mundi.io/)**.
+- 🔭 I’m currently working as a _Sr Frontend Software Engineer_ @ **[Deel](https://www.deel.com/)**.
 - 💼 I have worked in **MercadoLibre** as a Technical Leader.
 
 ### 💻 Languages
