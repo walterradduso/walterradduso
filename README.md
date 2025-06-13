@@ -1,44 +1,46 @@
 ## Hello World 👋 it's Walter here
 
-I've been programming for many years, starting with PHP, HTML, CSS and JS (with JQuery).
+I'm a Frontend Engineer from Argentina, passionate about building modern, scalable, and user-friendly web applications.
 
-A few years later I was introduced to FrontEnd and it was love at first line. I started with AngularJs and then moved on to ReactJs.
+My career started with PHP, HTML, CSS, and JavaScript (with a lot of jQuery), but everything changed when I discovered the frontend, it was love at first line. Since then, I've specialized in ReactJS, NodeJS, JavaScript, and TypeScript, and I’ve had the chance to work on challenging projects in e-commerce and fintech environments.
 
-Currently I am working with ReactJs and NodeJs with Javascript and Typescript.
-I'm also constantly learning new languages and tools (libraries and frameworks).
+Currently, I’m working at **NullPlatform** as a Sr. Frontend Software Engineer. Previously, I worked at **Deel** as a Senior Frontend Engineer, and before that, I was a Technical Leader at **MercadoLibre**, where I contributed to large-scale products used by millions of users.
 
-Thank you for reading and welcome to my profile.
+I'm always learning and improving, staying updated with the latest tools, frameworks, and best practices in web development.
 
-### 👨🏻‍💻 Work
+Thanks for stopping by, and welcome to my profile 👨🏻‍💻
 
-- 🔭 I’m currently working as a _Sr Frontend Software Engineer_ @ <a href="https://www.nullplatform.com/" target="_blank" rel="noopener noreferrer"><strong>NullPlatform</strong></a>.
-- 💼 I have worked in **MercadoLibre** as a Technical Leader.
+### 💼 Work
 
-### 💻 Languages
+- 🛠️ Currently at **[NullPlatform](https://www.nullplatform.com/)** as a Sr. Frontend Software Engineer.
+- 🌍 Former Senior Frontend Engineer at **Deel**.
+- 🧠 Former Technical Leader at **MercadoLibre**.
 
-- 🌱 I work with React, NextJs, NodeJs, Javascript and Typescript on a daily basis.
+### 🧪 Tech Stack
+
+- ⚛️ React, Next.js, Redux, GraphQL.
+- 🔧 Node.js, TypeScript, JavaScript.
+- 💅 HTML, CSS, Tailwind, Styled Components.
+- 🧩 Firebase, Git, Vite, Webpack.
 
 ### 📫 How to reach me
 
 <div id="badges">
-  <a href="https://walterradduso.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/website-8a0606?style=for-the-badge&logo=About.me&logoColor=FFFFFF" alt="Website Badge"/>
-  </a>
   <a href="https://linkedin.walterradduso.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/walterradduso" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="Website Badge"/>
   </a>
 </div>
 
 ##
 
 <div>
+  <br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL " width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
