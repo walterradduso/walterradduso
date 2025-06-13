@@ -11,12 +11,12 @@ Thank you for reading and welcome to my profile.
 
 ### 👨🏻‍💻 Work
 
-- 🔭 I’m currently working as a _Sr Frontend Software Engineer_ @ **[Deel](https://www.deel.com/)**.
+- 🔭 I’m currently working as a _Sr Frontend Software Engineer_ @ **[NullPlatform](https://www.nullplatform.com/)**.
 - 💼 I have worked in **MercadoLibre** as a Technical Leader.
 
 ### 💻 Languages
 
-- 🌱 I work with React, Javascript and Typescript on a daily basis.
+- 🌱 I work with React, NextJs, NodeJs, Javascript and Typescript on a daily basis.
 
 ### 📫 How to reach me
 
