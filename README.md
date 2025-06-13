@@ -11,7 +11,7 @@ Thank you for reading and welcome to my profile.
 
 ### 👨🏻‍💻 Work
 
-- 🔭 I’m currently working as a _Sr Frontend Software Engineer_ @ **[NullPlatform](https://www.nullplatform.com/)**.
+- 🔭 I’m currently working as a _Sr Frontend Software Engineer_ @ <a href="https://www.nullplatform.com/" target="_blank" rel="noopener noreferrer"><strong>NullPlatform</strong></a>.
 - 💼 I have worked in **MercadoLibre** as a Technical Leader.
 
 ### 💻 Languages
